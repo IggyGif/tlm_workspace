@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ternary_logic_model"
+		},
+		{
+			"path": "../db_utils" 
+		}
+	],
+	"settings": {}
+}
